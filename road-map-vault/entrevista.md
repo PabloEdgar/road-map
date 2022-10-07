@@ -1,0 +1,63 @@
+# Passo a passo
+- Conhecer a empresa
+	- O que a empresa faz
+	- Principais milestones (principais pontos da evoluçãod a empresa)
+	- Quantos anos a empresa tem
+	- SABER QUEM É O DONO
+
+# Passar pelos tópicos
+- Estou estudando
+- Mostrar conhecimento / ciência sobre as seguintes áreas
+	- desenvolvimento
+		- areas
+			- arquitetura
+			- CI/CD (cloud)
+			- front-end
+			- back-end
+			- quality
+			- sutentação
+		- tecnologies
+			- code / business
+				- linux (wsl port de windows pra linux)
+				- git
+				- java
+				- javascript / ([[typescript]])
+				- html
+				- css
+				- python
+				- docker
+				- .NET (dot net - tão bom quanto java wsdl)
+				- c# (csharp não é c)
+			- persistance
+				- sql
+					- mysql
+					- postgres
+					- oracle
+				- no-sql
+					- graphQL
+					- mongoDB
+					- elastic-search
+			- frameworks
+				- node (javascript)
+				- spring (api / back-end)
+				- Flask (web-api / python)
+				- React (web / javascript)
+				- React-native (mobile)
+				- Flutter (mobile)
+				- NextJs (web / javascript)
+				- NestJS (api / javascript)
+				- Express (api / javascript)
+				- Angular (web / javascript)
+			- CI/CD (ler sobre)
+				- pipeline (from code to production)
+				- continuous integration
+	- agile (tema de casa) (principais papeis/responsabilidades dentro do agile; o que é daily; o que é quadro de tarefas)
+		- kanban
+		- scrum
+		- ferramentas
+	- quality-assurance (processos de qualidade)
+		- unit tests
+		- integration tests
+		- ferramentas
+			- sonar
+			- lint

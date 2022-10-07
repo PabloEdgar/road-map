@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "61e388157fe7a48e",
+        "id": "e30b0ca0bd2704fb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "road-map.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "46d82156e02d4bea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "me-poupe.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 190.5
   },
   "right": {
     "id": "a8eae56b44b28b57",
@@ -128,6 +140,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61e388157fe7a48e",
-  "lastOpenFiles": []
+  "active": "e30b0ca0bd2704fb",
+  "lastOpenFiles": [
+    "entrevista.md",
+    "road-map.md",
+    "me-poupe.md",
+    "typescript.md",
+    "Untitled.md"
+  ]
 }
