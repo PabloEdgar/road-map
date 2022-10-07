@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "dc3c52243cddc379",
+    "type": "split",
+    "children": [
+      {
+        "id": "61e388157fe7a48e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "road-map.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e42420929de52c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c8fdeed5090f4ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc351742c8fdc601",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2978114369aac04d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30a4b4746dc1a79e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8eae56b44b28b57",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b050094480093d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "126f2ac3ba69a019",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "road-map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1242bc0b2be0f42d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "road-map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d577ea125fcecb5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26d3b9290658ace6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "road-map.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "61e388157fe7a48e",
+  "lastOpenFiles": []
+}
