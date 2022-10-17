@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "064d0730b2a522f1",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "5551a795577781ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bd9efe37a868c4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sintax-pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -73,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sintax-pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sintax-pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,25 +124,33 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sintax-pattern.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "064d0730b2a522f1",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "5bd9efe37a868c4b",
   "lastOpenFiles": [
-    "entrevista.md",
+    "typescript.md",
+    "tema de casa.md",
+    "git.md",
+    "sintax-pattern.md",
     "road-map.md",
     "rest-api.md",
     "me-poupe.md",
     "flask.md",
-    "architecture.md",
-    "typescript.md",
-    "static/img/Pasted image 20221007000115.png"
+    "entrevista.md",
+    "architecture.md"
   ]
 }
