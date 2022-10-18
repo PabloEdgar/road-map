@@ -1,4 +1,0 @@
--Converter todas as logicas para trabalhar com as validades em dias.
--Criar função para atualizar os desgastes 
--Criar uma função que retorne todos items do tipo fita.
--Criar função que calcule o custo da renovação

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python-data-structure.md",
+                "file": "goals/short-term-goals/tema de casa.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 222.5
   },
   "right": {
     "id": "a8eae56b44b28b57",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python-data-structure.md",
+                "file": "goals/short-term-goals/tema de casa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/python-data-structure.md",
+                "file": "goals/short-term-goals/tema de casa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python-data-structure.md"
+                "file": "goals/short-term-goals/tema de casa.md"
               }
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "0653ac9cee372abd",
   "lastOpenFiles": [
+    "python/python-data-structure.md",
+    "goals/short-term-goals/tema de casa.md",
     "javascript/typescript.md",
     "road-map.md",
     "sintax-pattern.md",
-    "tema de casa.md",
     "git.md",
     "rest-api.md",
     "me-poupe.md",
     "python/flask.md",
-    "entrevista.md",
-    "architecture.md"
+    "entrevista.md"
   ]
 }
